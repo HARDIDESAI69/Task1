@@ -24,7 +24,6 @@ This project is a UI Development task to recreate the **Battlefield 4 SERVER INF
 ## Technologies Used
 - **Frontend:** React.js, CSS/SCSS
 - **Backend:** Node.js, Express.js
-- **Tools:** Figma for design reference
 
 ---
 
